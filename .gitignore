@@ -1,0 +1,5 @@
+.DS_Store
+Thumbs.db
+python/images/
+python/model/flower-model.hdf5
+python/npy/flower.npy
